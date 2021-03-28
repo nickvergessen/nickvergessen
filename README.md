@@ -8,4 +8,4 @@
  - [Kotlin/Java](https://github.com/nextcloud/talk-android)
  - [objective-c](https://github.com/nextcloud/talk-ios)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvergessen&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickvergessen&theme=slateorange&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
