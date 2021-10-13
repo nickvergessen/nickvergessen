@@ -6,4 +6,4 @@
 
  - [PHP, JS/Vue or WebRTC](https://github.com/nextcloud/spreed)
  - [Kotlin/Java](https://github.com/nextcloud/talk-android)
- - [objective-c](https://github.com/nextcloud/talk-ios)
+ - [Swift/objective-c](https://github.com/nextcloud/talk-ios)
