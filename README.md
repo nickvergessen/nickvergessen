@@ -4,6 +4,8 @@
 
 🐕‍🦺 I’m looking for helpers and [colleagues](https://nextcloud.com/jobs/) with:
 
- - [PHP, JS/Vue or WebRTC](https://github.com/nextcloud/spreed)
+ - [PHP](https://github.com/nextcloud/spreed)
+ - [VueJS](https://github.com/nextcloud/spreed)
+ - [WebRTC](https://github.com/nextcloud/spreed)
  - [Kotlin/Java](https://github.com/nextcloud/talk-android)
  - [Swift/objective-c](https://github.com/nextcloud/talk-ios)
